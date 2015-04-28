@@ -1,6 +1,6 @@
 /*!
  * jQuery Environment
- * Copyright 2015 Kai Feldmaier (eddieconnecti@users.noreply.github.com)
+ * Copyright 2015 Kai Feldmaier (kai.feldmaier@gmail.com)
  * Licensed under MIT (http://opensource.org/licenses/MIT)
  */
 
